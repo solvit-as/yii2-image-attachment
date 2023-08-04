@@ -1,5 +1,5 @@
 {
-  "name": "zxbodya/yii2-image-attachment",
+  "name": "solvit/yii2-image-attachment",
   "description": "Extension for yii, to handle images attached to ActiveRecord",
   "type": "yii2-extension",
   "keywords": [
@@ -14,10 +14,13 @@
     {
       "name": "Bogdan Savluk",
       "email": "savluk.bogdan@gmail.com"
+    },
+    {
+      "name": "Solvit AS",
+      "email": "info@solvit.no"
     }
   ],
   "require": {
-    "yiisoft/yii2-jui": "*",
     "yiisoft/yii2-imagine": "*"
   },
   "autoload": {
